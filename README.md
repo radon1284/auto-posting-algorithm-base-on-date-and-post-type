@@ -1,4 +1,4 @@
-# auto-posting-algorithm-base-on-date-and-post-type
+# Auto posting algorithm base on date and post type
 
 ```ruby
 namespace :auto_status do
